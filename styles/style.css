@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Cormorant Garamond', serif;
+    src: url();
+}
+body{
+    background: skyblue;
+    font-size: 30px;
+}
+header {
+    background: pink;
+    font-size: 30px;
+    width: 100%;
+
+}
+#wrapper{
+    width: 900 px;
+    margin: 0 auto;
+    background: white;
+
+}
+nav {
+    background: purple;
+    width: 80%;
+    float: right;
+}
+
+#hero {
+    background: tan;
+    height: 150px;
+    width: 100%;
+}
+
+#logo {
+ background-color: plum;
+ height: 100px;
+ float: left;
+ width: 15%;
+}
+main {
+    background: lightgreen;
+    min-height: 400px;
+    width: 100%;
+}
+
+h1 {
+    margin: 50px 0;
+}
+footer {
+    background: lightsalmon;
+    width: 100%;
+    float: right;
